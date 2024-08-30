@@ -1,4 +1,4 @@
-n = int(input("Informe o número de elementos: "))
+n = int(input("Informe a quantidade de números: "))
 
 quantidade = 0  # 0 é o elemento neutro da contagem
 for e in range(n):

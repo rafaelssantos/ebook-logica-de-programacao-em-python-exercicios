@@ -1,4 +1,4 @@
-n = int(input("Informe a quantidade de elementos"))
+n = int(input("Informe a quantidade de números: "))
 
 # Inicialização do menor elemento
 menor = int(input("Informe o primeiro número: "))
