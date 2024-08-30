@@ -18,7 +18,7 @@ else:
 salario_tributavel = salario_bruto - inss
 
 imposto = 0
-if salario_tributavel <= 2259.20 :
+if salario_tributavel <= 2259.20:
     imposto = 0 # Isento
 elif 2259.21 <= salario_tributavel <= 2826.65:
     imposto = salario_tributavel * 0.075 - 169.44

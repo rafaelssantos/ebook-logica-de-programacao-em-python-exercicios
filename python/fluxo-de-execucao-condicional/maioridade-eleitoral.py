@@ -1,5 +1,5 @@
 idade = int(input("Informe sua idade: "))
-if idade >= 16 :
+if idade >= 16:
     print("Você pode votar.")
-else :
+else:
     print("Você ainda não pode votar.")
