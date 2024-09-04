@@ -3,7 +3,7 @@
 Este repositório contém as implementações dos exercícios apresentados no livro **"Lógica de Programação: Python e abstrações em Scratch"**. O livro visa ensinar conceitos fundamentais de programação e lógica usando duas abordagens complementares: Python e Scratch. Aqui você encontra códigos-fonte das atividades propostas no livro.
 
 ## Livro
-O livro ainda não foi publicado. Neste momento, a versão prévia está disponível apenas aos alunos do [IFPR Arapongas](https://ifpr.edu.br/arapongas/).
+O livro ainda não foi publicado. Neste momento, a versão prévia está disponível apenas aos alunos do [IFPR Arapongas](https://arapongas.ifpr.edu.br/).
 
 
 ## Estrutura do Repositório
