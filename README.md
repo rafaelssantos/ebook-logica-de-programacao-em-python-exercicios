@@ -11,5 +11,5 @@ O repositório contém uma pasta principal que contém subpastas correspondentes
 ### Python
 
 1. **Instale o Python**. Certifique-se de ter o Python 3.x instalado em seu sistema. Você pode baixar o Python [www.python.org/downloads/](https://www.python.org/downloads/).
-2. **Baixe ou clone o repositório de exemplos**.
+2. **Baixe ou clone este repositório**.
 3. **Execute cada `arquivo.py`** diretamente pela CLI ou utilizando alguma IDE. 
