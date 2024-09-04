@@ -1,7 +1,7 @@
 n = int(input("Quantidade de números a somar: "))
 
-soma = 0    # 0 é o elemento neutro da soma
+soma = 0                    # 0 é o elemento neutro da soma
 for e in range(n):
     num = int(input("Informe o número: "))
-    soma = soma + num
+    soma = soma + num       # Acumulação da soma
 print("Resultado:", soma)
