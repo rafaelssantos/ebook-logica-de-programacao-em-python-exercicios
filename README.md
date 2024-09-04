@@ -10,6 +10,9 @@ O repositório contém uma pasta principal que contém subpastas correspondentes
 
 ### Python
 
-1. **Instale o Python**. Certifique-se de ter o Python 3.x instalado em seu sistema. Você pode baixar o Python [www.python.org/downloads/](https://www.python.org/downloads/).
+1. **Instale o Python**. Certifique-se de ter o Python 3.x instalado em seu sistema. Você pode baixar o Python em [www.python.org/downloads/](https://www.python.org/downloads/).
 2. **Baixe ou clone este repositório**.
 3. **Execute cada `arquivo.py`** diretamente pela CLI ou utilizando alguma IDE. 
+
+### Visual Studio Code (Opcional)
+1. **Instale o editor VS Code**. Você pode baixar o instalador em [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download). Escolha a versão apropriada para o seu sistema operacional.
