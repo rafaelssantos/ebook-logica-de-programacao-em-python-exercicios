@@ -1,6 +1,6 @@
 # Exercícios do livro "Lógica de Programação: Python e abstrações em Scratch"
 
-Este repositório contém as implementações dos exercícios apresentados no livro **"Lógica de Programação: Python e abstrações em Scratch"**. O livro visa ensinar conceitos fundamentais de programação e lógica usando duas abordagens complementares: Python e Scratch. Aqui você encontrará códigos-fonte em Python e arquivos Scratch que ilustram os conceitos abordados no livro.
+Este repositório contém as implementações dos exercícios apresentados no livro **"Lógica de Programação: Python e abstrações em Scratch"**. O livro visa ensinar conceitos fundamentais de programação e lógica usando duas abordagens complementares: Python e Scratch. Aqui você encontrará códigos-fonte das atividades propostas no livro.
 
 ## Estrutura do Repositório
 
