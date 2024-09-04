@@ -19,4 +19,4 @@ O repositório contém uma pasta principal que contém subpastas correspondentes
 3. **Execute cada `arquivo.py`** diretamente pela CLI ou utilizando alguma IDE. 
 
 ### Visual Studio Code (Opcional)
-1. **Instale o editor VS Code**. Você pode baixar o instalador em [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download). Escolha a versão apropriada para o seu sistema operacional.
+1. **Instale o editor VS Code**. Você pode baixar o instalador em [code.visualstudio.com/Download](https://code.visualstudio.com/Download). Escolha a versão apropriada para o seu sistema operacional.
