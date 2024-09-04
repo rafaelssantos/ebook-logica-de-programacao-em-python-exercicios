@@ -4,7 +4,7 @@ Este repositório contém as implementações dos exercícios apresentados no li
 
 ## Estrutura do Repositório
 
-O repositório contém uma pasta principal que contém subpastas correspondentes aos capítulos do livro. Os scripts Python estão organizados nessa estrutura.
+O repositório contém uma pasta principal que contém subpastas correspondentes aos capítulos do livro. Os códigos-fonte estão organizados nessa estrutura.
 
 ## Como Usar
 
